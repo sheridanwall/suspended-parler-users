@@ -4,13 +4,9 @@ This repository contains data and code supporting a Columbia Journalism School t
 
 ## Data
 
-The analysis explores Parler user data downloaded from the social media platform before its shutdown in January. The data was released in February as part of a study performed by Aliapoulios, et al. and downloaded from [Zenodo](ADD LINK HERE!!). 
+The analysis explores Parler user data downloaded from the social media platform before its shutdown in January. The data was released in February as part of a study performed by Aliapoulios, et al. and downloaded from [Zenodo](https://zenodo.org/record/4442460#.YQ2FQjZKi3V). The analysis uses `parler_users.csv`, which includes all 13.25 million users available in the downloaded data. Instructions to generate are in the notebook.
 
-The `parler_data` directory contains the following:
-
-### Total users
-
-- `parler_users.csv`, which includes all 13.25 million users available for download.
+The `data` directory contains the following:
 
 ### Users mentioning far-right groups
 
